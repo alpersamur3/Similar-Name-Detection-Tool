@@ -41,10 +41,17 @@ pip install jellyfish
 ## Usage
 
 Save the script as similar_name_tool.py
-Run it:```python similar_name_tool.py```
+
+Run it:
+```
+python similar_name_tool.py
+```
 Browse and select a folder
+
 Adjust settings (extensions, threshold, size filter, etc.)
+
 Click Start Scan
+
 Explore results and use right-click/double-click for fast access
 
 Ideal for organizing large drives, finding naming conflicts, and removing duplicate or near-duplicate files.
@@ -52,4 +59,5 @@ Ideal for organizing large drives, finding naming conflicts, and removing duplic
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 ## Star the Repo
 If you find this tool useful, please give it a ⭐ on GitHub! It helps others discover it.
+
 Thank you for using Similar Name Detection Tool!
